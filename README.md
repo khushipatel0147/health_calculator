@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<p>
+<img src="https://github.com/khushipatel0147/health_calculator/assets/119857263/11edda75-ea1f-442b-ac18-9eadd66d52dd" height="20%" width="30%" >
+<img src="https://github.com/khushipatel0147/health_calculator/assets/119857263/8c82b066-e9e2-4c87-bb9d-01fec0410fa2" height="20%" width="30%" >
+<img src="https://github.com/khushipatel0147/health_calculator/assets/119857263/8bd6ec57-5637-4981-b228-52c0368021a3" height="20%" width="30%" >
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/khushipatel0147/health_calculator/assets/119857263/31519ff2-51ee-4661-a2b7-153d74cf8dc4
+
